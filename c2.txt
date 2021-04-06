@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nuevo c2
+=======
+nuevo c2 en rama
+>>>>>>> prueba2
